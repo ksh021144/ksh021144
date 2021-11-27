@@ -25,6 +25,7 @@
 
 ### Experience
 
+- **SW Engineer** - SW Engineer at Hyundai Card *(2021. 12 - present)*
 - **SSAFY Coach** - Coach at SSAFY(Samsung Software Academy For Youth) *(2020. 07 - 2020. 11)*
 - **SSAFY Trainee** - Trainee at SSAFY(Samsung Software Academy For Youth) *(2019. 07 - 2020. 06)*
 - **Undergraduate Research Student** - Consignment Research *(2018. 07 - 2018. 11)*
