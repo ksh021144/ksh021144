@@ -21,7 +21,6 @@
 ### Info
 
 - Gyeongsang National University (GNU),  Dept. Computer Science, B.S. student
-- More information about me on the [page](https://ksh021144.github.io/about/).
 
 ### Experience
 
